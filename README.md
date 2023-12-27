@@ -98,6 +98,8 @@ Binary variable (Yes/No) indicating whether a customer has churned or not.
 
 5. Are senior citizens more or less likely to churn compared to non-senior citizens?
 
+## Tableau Visualization
+Explore dynamic visual representations of our Customer Churn Prediction project at this Tableau link. https://public.tableau.com/app/profile/efosa.omosigho/viz/Customer_churn_project_lp2/ChurnComparisonSeniorvsnon-senior
 
 # AUTHOR
 Efosa Dave Omosigho
