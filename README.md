@@ -469,7 +469,8 @@ print("Test Accuracy:", test_accuracy)
 These results reflect the effectiveness of the tuned Logistic Regression model in predicting customer churn on unseen data.
 
 # Tableau Visualization
-Explore dynamic visual representations of our Customer Churn Prediction project at this Tableau link. https://public.tableau.com/views/Customer_churn_project_lp2/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Explore dynamic visual representations of our Customer Churn Prediction project at this Tableau link:
+https://public.tableau.com/shared/BS9R7BSZM?:display_count=n&:origin=viz_share_link
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
